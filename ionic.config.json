@@ -1,6 +1,6 @@
 {
   "name": "fileUpload",
-  "app_id": "775783cb",
+  "app_id": "1fa8dd51",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
