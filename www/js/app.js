@@ -17,6 +17,7 @@
 		exampleController.upload = function(){
 
             console.log("Calling Upload function");
+
 			 var options = {
             fileKey: "avatar",
             fileName: "image.png",
