@@ -15,6 +15,8 @@
 		var exampleController = this;
 
 		exampleController.upload = function(){
+
+            console.log("Calling Upload function");
 			 var options = {
             fileKey: "avatar",
             fileName: "image.png",
@@ -29,6 +31,5 @@
             // constant progress updates
         });
 		}
-
 	}
 })();
