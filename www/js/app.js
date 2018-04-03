@@ -10,13 +10,13 @@
 
 	function ExampleController($cordovaFileTransfer){
 
-		console.log("Controllers are loaded");
+		alert.log("Controllers are loaded");
 
 		var exampleController = this;
 
 		exampleController.upload = function(){
 
-            console.log("Calling Upload function");
+            alert("Calling Upload function");
 
 			 var options = {
             fileKey: "avatar",
