@@ -10,7 +10,7 @@
 
 	function ExampleController($cordovaFileTransfer){
 
-		alert.log("Controllers are loaded");
+		alert("Controllers are loaded");
 
 		var exampleController = this;
 
